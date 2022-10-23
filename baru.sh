@@ -1,6 +1,6 @@
 #!/bin/bash
 # By HideSSH
-#belajar
+#belajar kita bersaam
 # Tunneling SSH Websocket + Stunnel + SSLH
 # ==================================================
 
